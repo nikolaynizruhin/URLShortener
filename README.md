@@ -8,10 +8,15 @@ Requirements:
 - PDO MySQL
 
 Installation:
+
 1. $ git clone https://github.com/nikolaynizruhin/URLShortener.git
+
 2. $ composer install
+
 3. Update the database info in include/config.php
+
 4. Run the SQL included in url_shortener.sql
 
 See:
+
 http://webdevelop.16.mb.com
