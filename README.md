@@ -15,4 +15,4 @@
 <li>Run the SQL included in url_shortener.sql</li>
 </ol>
 <b>See:</b>
-<p><a href="http://webdevelop.16.mb.com">URLShortener</a></p>
+<p><a href="http://webdevelop.16mb.com/">http://webdevelop.16mb.com</a></p>
