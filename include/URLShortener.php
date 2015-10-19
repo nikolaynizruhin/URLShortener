@@ -161,8 +161,8 @@ class URLShortener
     protected function getShortUrl($url)
     {
         $url = explode('/', $url);
-        if (isset($url[4]) && !empty($url[4])) {
-            return preg_match('/^[0-9a-zA-Z]{6}$/', $url[4]) ? $url[4] : false;
+        if (isset($url[3]) && !empty($url[3])) {
+            return preg_match('/^[0-9a-zA-Z]{6}$/', $url[3]) ? $url[3] : false;
         } else {
             return false;
         }
