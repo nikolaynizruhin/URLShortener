@@ -8,10 +8,11 @@
 - PDO MySQL
 
 <b>Installation:</b>
-<p>1. $ git clone https://github.com/nikolaynizruhin/URLShortener.git</p>
-<p>2. $ composer install</p>
-<p>3. Update the database info in include/config.php</p>
-<p>4. Run the SQL included in url_shortener.sql</p>
-
+<ul>
+<li>1. $ git clone https://github.com/nikolaynizruhin/URLShortener.git</li>
+<li>2. $ composer install</li>
+<li>3. Update the database info in include/config.php</li>
+<li>4. Run the SQL included in url_shortener.sql</li>
+</ul>
 <b>See:</b>
 <p>http://webdevelop.16.mb.com</p>
