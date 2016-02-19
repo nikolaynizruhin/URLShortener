@@ -14,5 +14,3 @@
 <li>Update the database info in include/config.php</li>
 <li>Run the SQL included in url_shortener.sql</li>
 </ol>
-<b>See:</b>
-<p><a href="http://webdevelop.16mb.com/">http://webdevelop.16mb.com</a></p>
