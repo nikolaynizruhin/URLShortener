@@ -9,7 +9,7 @@
 
 <b>Installation:</b>
 <ol>
-<li>$ git clone https://github.com/nikolaynizruhin/URLShortener.git</li>
+<li>$ git clone https://github.com/nikolaynizruhin/url-shortener.git</li>
 <li>$ composer install</li>
 <li>Update the database info in include/config.php</li>
 <li>Run the SQL included in url_shortener.sql</li>
